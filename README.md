@@ -93,6 +93,7 @@ Clicando neste botão, o usuário poderá:
 
 > [!WARNING]
 > O `username` deve ser o seu nome de usuário do PostgreSQL, certifique-se de que ele tenha todas as permissões necessárias.
+> Após qualquer uma dessas ações, será requisitada a senha do seu `username`, certifique-se de estar correta.
 
 ---
 
