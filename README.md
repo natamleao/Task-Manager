@@ -127,6 +127,13 @@ Clicando neste botão, o usuário poderá:
 
 ---
 
+> [!WARNING]
+> ## Licença
+> 
+> Este projeto está licenciado sob a **MIT License**.
+
+---
+
 * **Autor:** Natam Leão Ferreira
 * **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
 * **Disciplina:** Desenvolvimento de Software para Web
