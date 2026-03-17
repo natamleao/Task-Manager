@@ -1,6 +1,11 @@
 <div align="justify">
 
-# Exercício de Desenvolvimento de Software para Web: Gerenciador de Tarefas
+# Task Manager
+
+![HTML](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-blue?logo=postgresql)
 
 </div>
 
@@ -96,7 +101,11 @@ Clicando neste botão, o usuário poderá excluir a tarefa.
 > [!NOTE]
 > Este projeto é uma implementação simples de um gerenciador de tarefas utilizando Node.js e PostgreSQL. Ele serve como uma oportunidade de aprendizado para entender os conceitos de desenvolvimento web com JavaScript.
 
+---
+
 * **Autor:** Natam Leão Ferreira
 * **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
 * **Disciplina:** Desenvolvimento de Software para Web
 * **Data de Conclusão:** 13/08/2024
+
+---
