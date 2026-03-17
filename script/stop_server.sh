@@ -3,10 +3,8 @@
 APP_NAME="task-manager"
 LOG_DIR="$HOME/Reafactoring-Code/Task-Manager/logs"
 
-# Garante logs
 mkdir -p "$LOG_DIR"
 
-# Garante que o PATH tenha o PM2 instalado globalmente
 export PATH=$HOME/.npm-global/bin:$PATH
 
 if pm2 list | grep -q "$APP_NAME"; then
