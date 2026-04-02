@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Task Manager
+# *Task Manager*
 
 ![HTML](https://img.shields.io/badge/Markup-HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/Style-CSS3-blue?logo=css3)
