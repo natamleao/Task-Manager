@@ -135,9 +135,10 @@ Clicando neste botão, o usuário poderá:
 
 ---
 
-* **Autor:** Natam Leão Ferreira
-* **Instituição:** Universidade Federal do Ceará (UFC) - Campus Russas
-* **Disciplina:** Desenvolvimento de Software para Web
-* **Data de Conclusão:** 13/08/2024
+## Autor
+
+**Natam Leão Ferreira**
+
+Conclusão: **2024**
 
 ---
