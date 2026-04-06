@@ -129,9 +129,10 @@ Clicando neste botão, o usuário poderá:
 ---
 
 > [!WARNING]
+>
 > ## Licença
-> 
-> Este projeto está licenciado sob a **MIT License**.
+>
+> Este projeto está sob a **Licença MIT**.
 
 ---
 
